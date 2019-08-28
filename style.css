@@ -1,0 +1,49 @@
+
+body {
+    background: black;
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif
+}
+.img-thumbnail {
+    height: 150px;
+    width: 150px;
+    margin-top: 15%;
+}
+
+h3 {
+  position: absolute;
+  bottom: 10px;
+  width: 150px;
+  padding: 7px;
+  margin-bottom: 0;
+  font-weight: 50;
+  line-height: 10px;
+  color: #ffffff;
+  text-align: center;
+  background: salmon;
+  border-bottom: 0;
+  font-size: 10px;
+}
+
+footer {
+    text-align: center;
+    color: grey;
+    height: 50px;
+    background: white;
+    padding-top: 15px;
+    font-size: 12px;
+}
+
+.container {
+    background: grey;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.navbar-brand {
+    font-size: 50px;
+    font-weight: bolder;
+    color: black;
+    background: salmon;
+    padding: 0 20px;
+}
